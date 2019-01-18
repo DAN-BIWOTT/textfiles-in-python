@@ -1,0 +1,4 @@
+Smith, George A.    date=02/23/2017 $234.99
+Abramson, Mary Q.   date=12/19/2017 $500.00
+McConnell, Seth G.  date=05/31/2018 $      0.95
+Ford, Susan         date=02/21/2018 $  99.00
